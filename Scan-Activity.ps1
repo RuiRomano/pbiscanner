@@ -1,7 +1,7 @@
 #Requires -Modules @{ ModuleName="MicrosoftPowerBIMgmt"; ModuleVersion="1.2.1077" }
 
 param (    
-    $numberDays = 2,
+    $numberDays = 15,
     $outputPath = ".\output\activity",
     $filter = "",
     $outputBatchCount = 5000,
