@@ -8,6 +8,10 @@ No need for any deployment, just:
 - Run the script
 - Open the PBIT and target the output folder
 
+# Inventory Model
+
+![image](images/model-inventory.png)
+
 # Inventory Report
 
 ![image](images/report_inventory_pag1.png)
